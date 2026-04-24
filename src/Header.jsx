@@ -209,7 +209,7 @@ const TopLinks = styled.div`
 `;
 
 const MainNav = styled.div`
-  background: #078bd3;
+  background: #37bdf2;
 `;
 
 const NavInner = styled.div`
